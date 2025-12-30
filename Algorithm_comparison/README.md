@@ -1,16 +1,17 @@
-# 🌸 Iris Algorithm Comparison (KNN: 93.3% Winner!)
+# 🌸 Iris Algorithm Comparison
 
-## 📊 Results Table
-| Algorithm | Test Accuracy |
-|-----------|---------------|
-| **KNN** | **96.7%** 🎯 |
-| SVM | 93.3% |
-| **Random Forest** | 86.7% |
+**KNN(93.3%) vs SVM(90.0%) vs Random Forest(86.7%)**
+
+## 📊 Test Accuracy Results
+| Algorithm | Accuracy |
+|-----------|----------|
+| **KNN** | **93.3%** 🎯 |
+| SVM | 90.0% |
+| Random Forest | 86.7% |
 
 ## 🛠 Tech Stack
-- Python • Pandas • Scikit-learn • Seaborn
+- Python • Pandas • Scikit-learn • Seaborn • Matplotlib
 
-## 🔗 [Launch Notebook](Iris_Algorithm_Comparison.ipynb)
+## 🔗 [Launch Analysis](Iris_Algorithm_Comparison.ipynb)
 
-**KNN outperformed others!** Built by Deepak | ML Portfolio #2
-
+**KNN = Top Performer!** Built by Deepak | ML Portfolio #2
