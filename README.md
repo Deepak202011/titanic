@@ -12,7 +12,6 @@
 - Scikit-learn
 - Matplotlib
 
-## 🔗 Launch Notebook
-[Titanic_Survival_Prediction.ipynb](./Titanic_Survival_Prediction.ipynb)
+
 
 **Built by Deepak | ML Portfolio #1**
